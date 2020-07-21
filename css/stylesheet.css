@@ -8,7 +8,7 @@ body {
     background-image: url("marble.jpg");
     background-size: cover;
     position: relative;
-    height: 100px;
+    height: 190px;
   }
     
   .text {
@@ -16,7 +16,6 @@ body {
     color: black;
     font-size: 5vw; 
     font-weight: bold;
-    margin-top: 50px;
     padding: 50px;
     width: 100%;
     text-align: center;
@@ -26,3 +25,4 @@ body {
     transform: translate(-50%, -50%);
     mix-blend-mode: screen;
   }
+
