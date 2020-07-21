@@ -1,0 +1,28 @@
+body {
+    background-image: url("marble.jpg");
+    background-size: cover;
+}
+
+/* header */
+.header{
+    background-image: url("marble.jpg");
+    background-size: cover;
+    position: relative;
+    height: 100px;
+  }
+    
+  .text {
+    background-color: white;
+    color: black;
+    font-size: 5vw; 
+    font-weight: bold;
+    margin-top: 50px;
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    mix-blend-mode: screen;
+  }
