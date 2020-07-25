@@ -1,0 +1,15 @@
+/* card */
+.card.mb-3 {
+    margin: 10% 25%;
+    border: 10px double darkcyan;
+    padding: 20px;
+}
+
+.card-img{
+    padding: 10%;
+}
+
+.col-md-4 {
+    display: flex;
+    align-items: center;
+}
